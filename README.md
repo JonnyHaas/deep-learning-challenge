@@ -30,6 +30,6 @@ Write a Report on the Neural Network Model
 - The model was compiled with the Adam optimizer. It was trained on scaled feature data for 100 epochs.
 - The neural network model designed for Alphabet Soup Charity successfully predicts the effective use of funds with an accuracy of 74.6%. While the model performs well, further tuning and experimentation with different architectures might yield even better results.
 
-
+I used class notes and ChatGPT to help me complete the Module.  I felt unsure of myself in understanding the improving the model process.
 
 
